@@ -1,0 +1,4 @@
+images/
+*.jpg
+*.md
+!README.md
